@@ -1,0 +1,2 @@
+# crackedspotify
+nospotifyadds
